@@ -1,1 +1,1 @@
-# lara-nova
+# nova-laravel
